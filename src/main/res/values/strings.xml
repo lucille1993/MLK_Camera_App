@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CameraMLK</string>
+    <string name="take_a_pic">Take_A_Pic</string>
+    <string name="view">view</string>
+</resources>
